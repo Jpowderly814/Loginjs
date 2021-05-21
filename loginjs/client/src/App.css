@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.button {
+  width: 320 px;
+  height: 50px;
+  margin-top: 15 px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.registration{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.login{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
