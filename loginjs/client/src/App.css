@@ -27,3 +27,10 @@ button:hover {
   flex-direction: column;
   width: 100%;
 }
+
+.login_fields{
+  border: 1px solid #f6f8fa;
+    border-radius: 5px;
+    padding: 25px;
+    background-color: #eaecef;
+}
